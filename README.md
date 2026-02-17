@@ -53,25 +53,39 @@ Currently focusing on **DSA, Full-Stack Development, and Placement Preparation**
 
 ---
 
-## 📊 GitHub Stats  
+## <b>&#128200; Competitive Programming⚡ Github Stats</b>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/barnwaldivyanka?theme=light&font=Karma&ext=contest" width="420"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanka-20&theme=default" width="420"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanka-20&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanka-20&layout=compact&theme=tokyonight" height="350"/>
-</div>
+<br/>
 
 
 ---
 
-## 📫 Connect With Me  
+## 💼 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/divyanka-barnwal/)
-- 📧 [Email](barnwaldivyanka@gmail.com)
-
----
-
-⭐ *“Code. Learn. Build. Repeat.”*  
+<p left="center">
+  
+<a href="https://wa.me/7908371061?text=Hello%20Divyanka">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="30px" />    
+</a>
+  
+<a href="https://www.linkedin.com/in/divyanka-barnwal/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
+</a>
+<a href="https://github.com/Divyanka-20">
+  <img src="https://img.shields.io/badge/github-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" height="30px" />        
+</a>
+<a href="mailto:barnwaldivyanka@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" height="30px" />
+</a>
+</p>
+<!--
+⭐ *“Code. Learn. Build. Repeat.”*  -->
 
 <!--
 **Divyanka-20/Divyanka-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
